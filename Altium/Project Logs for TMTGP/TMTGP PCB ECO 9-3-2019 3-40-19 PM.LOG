@@ -1,0 +1,8 @@
+Added Component: Designator=D4(Diode0603)
+Added Component: Designator=R5(3-0603)
+Added Pin To Net: NetName=LED1 Pin=D4-K
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R5-2
+Added Net: Name=NetD4_A
+Added Member To Class: ClassName=TMTGP Member=Component D4 LED_0603
