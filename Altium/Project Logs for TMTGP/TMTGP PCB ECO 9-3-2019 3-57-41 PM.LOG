@@ -1,0 +1,18 @@
+Added Component: Designator=P1(Molex microSD)
+Added Component: Designator=U11(MMC33160MT)
+Added Pin To Net: NetName=CS Pin=P1-2
+Added Pin To Net: NetName=MOSI Pin=P1-3
+Added Pin To Net: NetName=SD_VCC Pin=P1-4
+Added Pin To Net: NetName=SCK Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=MISO Pin=P1-7
+Added Pin To Net: NetName=VCC Pin=U11-1
+Added Pin To Net: NetName=NetU11_4 Pin=U11-4
+Added Pin To Net: NetName=NetU11_4 Pin=U11-5
+Added Pin To Net: NetName=NetC22_2 Pin=U11-6
+Added Pin To Net: NetName=SCL Pin=U11-7
+Added Pin To Net: NetName=VCC Pin=U11-8
+Added Pin To Net: NetName=SDA Pin=U11-9
+Added Pin To Net: NetName=GND Pin=U11-10
+Added Member To Class: ClassName=TMTGP Member=Component P1 microSD
+Added Member To Class: ClassName=TMTGP_Sensors Member=Component U11 MMC33160MT
